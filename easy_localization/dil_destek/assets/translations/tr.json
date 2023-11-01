@@ -1,0 +1,17 @@
+{
+    "home":{
+        "title":"Ana Sayfa ",
+        "content":"ana sayfa detaylar"
+    },
+    "general":{
+        "buttons":{
+            "save":"kaydet"
+        }
+    },
+    "dialog":{
+        "verison":{
+            "title":"versiyon",
+           "content":"versiyon bilgisi"
+        }
+    }
+}
